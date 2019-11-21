@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/polybar
+!/.config/polybar/*
+!/.gitignore.d
+!/.gitignore.d/polybar
